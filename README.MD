@@ -20,9 +20,9 @@ Machine-Learning-Job-Trend/
 
 ├── 1000_ml_jobs_us.csv  - `Dataset containing 1000 ML job listings (US)`
 
-├── ML_Job_trend_plot.py - `Script for trend visualization`
+├── ML-Job-trend-plot.py - `Script for trend visualization`
 
-├── ML_Job_trend_plot.py - `Script for trend visualization along the time`
+├── ML-Job-AlongTime-trend-plot.py - `Script for trend visualization along the time`
 
 ├── requirements.txt -  `List of required Python packages`
 
